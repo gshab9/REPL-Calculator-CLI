@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  Testing-Calculator:
     runs-on: ubuntu-latest
 
     steps:
